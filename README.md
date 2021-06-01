@@ -1,11 +1,11 @@
 # Test
 
-[![Github All Releases](https://img.shields.io/github/downloads/surajkumarsaw1/xmrig/total.svg)](https://github.com/surajkumarsaw1/xmrig/releases)
-[![GitHub release](https://img.shields.io/github/release/surajkumarsaw1/xmrig/all.svg)](https://github.com/surajkumarsaw1/xmrig/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date/surajkumarsaw1/xmrig.svg)](https://github.com/surajkumarsaw1/xmrig/releases)
-[![GitHub license](https://img.shields.io/github/license/surajkumarsaw1/xmrig.svg)](https://github.com/surajkumarsaw1/xmrig/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/surajkumarsaw1/xmrig.svg)](https://github.com/surajkumarsaw1/xmrig/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/surajkumarsaw1/xmrig.svg)](https://github.com/surajkumarsaw1/xmrig/network)
+[![Github All Releases](https://img.shields.io/github/downloads/surajkumarsaw1/Termux-c12/total.svg)](https://github.com/surajkumarsaw1/Termux-c12/releases)
+[![GitHub release](https://img.shields.io/github/release/surajkumarsaw1/Termux-c12/all.svg)](https://github.com/surajkumarsaw1/Termux-c12/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/surajkumarsaw1/Termux-c12.svg)](https://github.com/surajkumarsaw1/Termux-c12/releases)
+[![GitHub license](https://img.shields.io/github/license/surajkumarsaw1/Termux-c12.svg)](https://github.com/surajkumarsaw1/Termux-c12/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/surajkumarsaw1/Termux-c12.svg)](https://github.com/surajkumarsaw1/Termux-c12/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/surajkumarsaw1/Termux-c12.svg)](https://github.com/surajkumarsaw1/Termux-c12/network)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajkumarsaw1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
